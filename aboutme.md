@@ -17,7 +17,7 @@ I take things apart to see how it works , then try to put it back in one piece.
 
 I have a keen interest in topics like cryptography , cybersecurity and networking and have built projects around it.
 
-I also take interest in reverse engineering which I used to built something called "SaavnDownloader" , Its a reverse
+I also take interest in reverse engineering which I used to build something called "SaavnDownloader" , Its a reverse
 engineered version of jiosaavn that lets you download any song from their site for free , its not included in my 
 portfolio for obvious legal reasons.
 
