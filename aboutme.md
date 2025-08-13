@@ -13,7 +13,14 @@ I'm a tech nerd who likes to think out of the box , take paths most fear from ta
 I love building stuff weather be software or hardware , Everything I build is Built with purpose.
 
 I also break stuff (not actually) , in the sense that I'm a curious person by nature so 
-I take things apart to see how it works , then try to put it back in one piece
+I take things apart to see how it works , then try to put it back in one piece.
+
+I explore different areas in tech like
+
+- cryptography
+- cyber security
+- machine learning
+
 
 
 ## Other Hobbies of mine
