@@ -8,7 +8,7 @@ I am Advait Marathe , If you were to ask me to describe myself in one sentence ,
 I'm a tech nerd who likes to think out of the box , take paths most fear from taking and challenge norms most don't challenge.
 
 
-## My Hobbies (Tech Related)
+## My Hobbies
 
 I love building stuff weather it be software or hardware , Everything I build is Built with purpose.
 
